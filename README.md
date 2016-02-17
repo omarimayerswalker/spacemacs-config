@@ -1,2 +1,2 @@
-# spacemacs-config
-My spacemacs config
+# Spacemacs Config
+My personal spacemacs config
